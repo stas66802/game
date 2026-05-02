@@ -45,7 +45,7 @@ weapons = {
 player = Player(
     x=cur_width//2, 
     y=cur_height//2, 
-    hp=100, 
+    hp=10, 
     weapon=weapons["normal"]
     )
 
